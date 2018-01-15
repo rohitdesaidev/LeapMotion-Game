@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/LeapMotion/Scenes/PinchingSandbox.unity
+  isLoaded: 1
+  isActive: 1
